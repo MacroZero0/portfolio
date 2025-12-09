@@ -63,4 +63,4 @@ Atuo diretamente na equipe de desenvolvimento, participando da criação e manut
   </a> 
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MacroZero0&show_icons=true&theme=dracula)
